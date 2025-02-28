@@ -1,45 +1,25 @@
-Spectral by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Relatório de desenvolvimento do site: ROBOTIF
+Componentes: Carlos Vinícius Santos, Maryamne Cruz, Pedro Augusto Silva.
+Trabalho referente a nota parcial do 4° bimestre 
 
 
-A big, modern, blocky affair with a mobile-style menu, fully responsive styling,
-and an assortment of pre-styled elements. So, pretty much what you were expecting
--- except, of course, for how it's put together, specifically:
+Nosso projeto foi idealizado com o objetivo de podermos unir o PI com nossa participação no projeto de robótica do nosso campus.
 
-- It's built with components from my Responsive Tools project.
+Nosso site apresenta o projeto de robótica desenvolvido pelos professores Humberto Araújo e Mariana Santana no IFRN campus João Câmara.
+O mesmo serve para o trabalho apresentado a disciplina de projeto integrador, entretanto, esperamos que seu uso possa ser útil posteriormente 
+para que os interessados no projetpo possam acessar servido como material de apoio.
 
-- It uses flexbox, which eliminates all kinds of terrible hacks and clunky layout
-  stopgaps (like CSS grid systems).
-
-- It uses Sass* a lot more intelligently, thanks in part to several new mixins
-  and functions I've been working on (as well as a few by @HugoGiraudel).
-
-  (* = still entirely optional if you prefer vanilla CSS :)
-
-- A ton of other stuff.
-
-In short, Spectral's the culmination of several new things I'm working on/trying out,
-so please, let me know what you think :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
+Layout geral:
+Nosso projeto foi dividido em 3 páginas, sendo elas:
+Página inicial, responsável por introduzir os usuários ao conteúdo de forma simples e objetiva por meio de informações básicas como equipe, público alvo e objetivos.
+Página secundária, resposável por mostrar um pouco mais sobre nosso trabalho na prática e registros feitos ao longo do processo.
+Página terciária, responsável por mostrar informações sobre o material utilizado nas oficinas do projeto.
 
 
-Credits:
+Utilizamos de um template disponibilizado pelo professor no site HTML5 UP (SPECTRAL) devido ao fato de ter sido solicitado.
 
-	Demo Images:
-		Unsplash (unsplash.com)
+Nossas dificuldades primordiais se apresentaram devido a adaptação necessária do uso do git hub e suas tecnologias,entretanto, 
+conseguimos superá-las e aprendemos muito mais na realização deste projeto. O mesmo foi muito útil para nossa formação pessoal e acadêmica,
+uma oportunidade incrivel. 
 
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Esperamos que este site possa ser melhorado futuramente e que sirva para os próximos componentes do projeto.
