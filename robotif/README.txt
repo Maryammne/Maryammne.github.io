@@ -1,5 +1,8 @@
 Relatório de desenvolvimento do site: ROBOTIF
-Componentes: Carlos Vinícius Santos, Maryamne Cruz, Pedro Augusto Silva.
+Componentes: 
+Carlos Vinícius Santos -20221064010014
+Maryamne Cruz-20221064010023
+Pedro Augusto Silva - 20221064010018
 Trabalho referente a nota parcial do 4° bimestre 
 
 
